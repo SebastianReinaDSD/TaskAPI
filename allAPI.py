@@ -5,8 +5,8 @@ import requests ,json
 
 
 
-token = 'secret_pIqDsfSIx4rWqucnCMY3PoDz6DxWYWkd8FpniQW34VD'
-databaseID = '3574f42993fa4efe90f5e4c7f7c2c112'
+token = 'yourtokensecret'
+databaseID = 'yourdatabaseID'
 tasks=None
 mylcd = I2C_LCD_driver.lcd()
 pageId=None
